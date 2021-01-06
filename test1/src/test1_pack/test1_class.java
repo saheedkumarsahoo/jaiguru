@@ -15,6 +15,6 @@ driver.get("https://google.com");
 //driver.wait(10000);
 
 driver.quit();
-System.out.println("================done================");
+System.out.println("================Automation done================");
 }
 }
